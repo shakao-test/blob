@@ -10,7 +10,9 @@
         "main.blocks",
         "main.ts",
         "tilemap.jres",
-        "_tilemap.ts"
+        "_tilemap.ts",
+        "custom.blob.ts",
+        "custom.blob.jres"
     ],
     "testFiles": [
         "test.ts"
